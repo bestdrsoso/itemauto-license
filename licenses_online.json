@@ -1,6 +1,6 @@
 {
  "v": 1,
- "t": 1792658938,
+ "t": 1792658942,
  "items": {
   "EEA415": {
    "s": "auto",
@@ -22,11 +22,6 @@
    "exp": "2026-11-18",
    "m": 15
   },
-  "8AC01C": {
-   "s": "off",
-   "exp": "2026-11-18",
-   "m": 15
-  },
   "12A455": {
    "s": "auto",
    "exp": "2026-11-19",
@@ -34,7 +29,8 @@
   }
  },
  "revoked": [
+  "8AC01C",
   "C0135B"
  ],
- "sig": "cde783915c23ae74f36df9b74496ec8b5b4b13e0a1817e254108330b2e902fe7c11a631fb9edf030f0d6ef15f7cd4844108a0d5105fcb60231058fd02adbc80e"
+ "sig": "8b9fb7fdff08ec03481e99abaf6abbd901588990de963a005cfd0598bf2adfc2b422b0fbb348338369a92d5c5cf138e1083c9bb520f0a5abb4379c13dbada10f"
 }
