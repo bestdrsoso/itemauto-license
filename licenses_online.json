@@ -1,6 +1,6 @@
 {
  "v": 1,
- "t": 1793104104,
+ "t": 1793281118,
  "items": {
   "EEA415": {
    "s": "auto",
@@ -69,7 +69,7 @@
   },
   "4B24BD": {
    "s": "off",
-   "exp": "",
+   "exp": "2026-11-28",
    "m": 15
   }
  },
@@ -77,5 +77,5 @@
   "8AC01C",
   "C0135B"
  ],
- "sig": "98546f76eb48edaa669ceb51ba81e9ea03d41894dd008be54ea0b2f9f1acd550e39d62f2bf763ee0c67e81638a925d7e90a2eb3603c96a501c910cc8d1b22309"
+ "sig": "3f0fc1ea2a63f7b6e0ba37b924223f5da6b429cd3414c4382b8a8b9bc6c03269c64d633b28b0abdce92b1e6b3511c93512ac719bfe414687f9d9e9f2ed894a08"
 }
