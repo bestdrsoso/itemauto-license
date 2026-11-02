@@ -1,8 +1,8 @@
 {
- "version": "1.4.0",
- "notes": "2026-11-02 업데이트 - 멀티로더 직접조작 취소/다계정 실행, 경매 '사는 글' 알림 차단, 채팅종료 영구 유지, 판매글 본문 표시, 등록·끌올·숨김해제 확인, 엑셀 일괄등록 수량·기간·카오스 오류, 트레더리 상태 확인, 창고 스캔 오드랍 방지, 자동 업데이트 개선. 자세한 내용은 같이 들어 있는 '업데이트 설명서(2026-11-02).html' 을 열어 보세요.",
- "url": "https://github.com/bestdrsoso/itemauto-license/releases/download/v1.4.0/ItemAuto-1.4.0.zip",
- "sha256": "88c3665df7b00625ddb3d76317aa89626cce059b8cc9fb502dbdff0d4dd8e18f",
- "size": 71270751,
+ "version": "1.4.1",
+ "notes": "1.4.1 (2026-11-02 오후) - 경매 낙찰 판정·거래톡 자동 열기, 게임 직접 조작 시 전체 정지, 등급 혜택 받기, 계정 저장 오류, 트레더리 자동 재등록 경고, 엑셀 내보내기 상세설명 포함, 트레이·자동시작·예약작업 안정화. 자세한 내용은 '업데이트 설명서(2026-11-02).html' 을 열어 보세요.",
+ "url": "https://github.com/bestdrsoso/itemauto-license/releases/download/v1.4.1/ItemAuto-1.4.1.zip",
+ "sha256": "4686940abdf9d921ac7be7bd201d2c77c6d49ac66fde2eefb5ca94ca89009cf3",
+ "size": 71351773,
  "date": "2026-11-02"
 }
